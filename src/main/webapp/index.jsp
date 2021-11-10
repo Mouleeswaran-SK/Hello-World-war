@@ -8,6 +8,6 @@
 		It is now : Time
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from ip : 
+		You are coming from ip addr : 
 		<%= request.getRemoteAddr()  %></p>
 </body>
